@@ -1,0 +1,9 @@
+F:\IFSP\Tecnologo\4º-MOD\LP2\Trabalho Final\Resources\Grafico\Grafico\bin\Debug\Grafico.exe
+F:\IFSP\Tecnologo\4º-MOD\LP2\Trabalho Final\Resources\Grafico\Grafico\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\IFSP\Tecnologo\4º-MOD\LP2\Trabalho Final\Resources\Grafico\Grafico\obj\x86\Debug\Grafico.FormLogin.resources
+F:\IFSP\Tecnologo\4º-MOD\LP2\Trabalho Final\Resources\Grafico\Grafico\obj\x86\Debug\Grafico.Properties.Resources.resources
+F:\IFSP\Tecnologo\4º-MOD\LP2\Trabalho Final\Resources\Grafico\Grafico\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\IFSP\Tecnologo\4º-MOD\LP2\Trabalho Final\Resources\Grafico\Grafico\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\IFSP\Tecnologo\4º-MOD\LP2\Trabalho Final\Resources\Grafico\Grafico\obj\x86\Debug\Grafico.exe
+F:\IFSP\Tecnologo\4º-MOD\LP2\Trabalho Final\Resources\Grafico\Grafico\obj\x86\Debug\Grafico.pdb
+F:\IFSP\Tecnologo\4º-MOD\LP2\Trabalho Final\Resources\Grafico\Grafico\bin\Debug\Grafico.pdb
